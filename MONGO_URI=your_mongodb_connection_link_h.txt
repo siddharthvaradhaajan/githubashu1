@@ -1,0 +1,1 @@
+mongodb+srv://sec24cs229_db_user:<db_password>@cluster0.4qihsl2.mongodb.net/wallpaperdb
